@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/pklonowski/pk_devcamp_view_tool
+  revision: 669ae17a12360677058c7bacf78ea896926ad833
+  specs:
+    pk_devcamp_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -192,6 +198,7 @@ DEPENDENCIES
   jquery-rails
   listen (~> 3.0.5)
   pg (~> 0.18)
+  pk_devcamp_view_tool!
   pry-byebug
   puma (~> 3.0)
   rails (= 5.0.1)
